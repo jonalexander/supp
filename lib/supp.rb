@@ -1,10 +1,10 @@
 require "supp/version"
 
   module Supp
-    if Time.now < 22
-      puts "supp"
-    else
-      puts "sickk"
+    if true
+      puts "Suppppp?"
+    else 
+      puts "okkkk"
     end
   end
 
